@@ -91,8 +91,8 @@
 <body>
 
 <header>
-    <h1>Max Mustermann</h1>
-    <p>Webentwickler | JavaScript | CSS</p>
+    <h1>Kevin Weber</h1>
+    <p>IT Business Analyst| UX | Product</p>
 </header>
 
 <nav>
